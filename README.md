@@ -37,6 +37,18 @@ this happen with path.release() give path to json file and then with fs.readFile
 30.  let's start with rating in movieController creating function getRatingViewData this will take our star and return it as an repeat method take rating.
 31. Last implementation is to add search page 
  + put into movies folder 
+ + work this file, cut to main content
+ + go to index.hbs and add section search into it on top
+ + add conditional statement if 
+ + delete all search page we don't need it. 
+ + implement router in movieController /search and render home and hasSearch to be true;
+ + go to main layout and change route to be movies/search
+ + in search form we need to give an action or cut this action
+ + rename or give to name fields names for example 'search, genre, year' this will be search criteria. 
+ + in movieController make Get request.
+ + in get request take req.query all data from search fields.
+ + go to movieService and in function getAll als param put filter = {}
+ + you need to add if statement to all searches and filter it.
  + 
 
 
