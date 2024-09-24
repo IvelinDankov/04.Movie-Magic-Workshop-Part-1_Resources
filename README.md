@@ -15,3 +15,8 @@
 12. go to index.hbs and put all title, imageUrl, description, genre, with handlebars syntax. Don't forget to render object movies in homeController. 
 13. Let's go back to partial template. - creating in views folder another folder partials and movie.hbs as a partial.
 14. cut partial and put in movie.hbs. How to use it? Just write {{>movie}} 'partial name'. 
+15. Add new layer 3-layer architecture. 
+* controllers 
+* services
+* data layers
+16. Creating folder Service and inside file movieService.js take all movies from homeController and put it to movieService.js this will not be last destination for movies. 
