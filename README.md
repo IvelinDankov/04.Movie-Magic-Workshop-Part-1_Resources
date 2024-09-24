@@ -31,5 +31,8 @@ this happen with path.release() give path to json file and then with fs.readFile
 24. In movieController make new route and render create page
 25. Make post request and new route in movieController. to work this you need to insert in index.js app.use(express.urlencoded, {extended: false});
 26. To take movieData req.body this is body parser middleware.
+27. Creating details which is into home in partials
+28. Add specific link to details page. and id call it with id for example: movies/{{id}}/details
+29.  
 
 
