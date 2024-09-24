@@ -49,6 +49,5 @@ this happen with path.release() give path to json file and then with fs.readFile
  + in get request take req.query all data from search fields.
  + go to movieService and in function getAll als param put filter = {}
  + you need to add if statement to all searches and filter it.
- + 
 
 
