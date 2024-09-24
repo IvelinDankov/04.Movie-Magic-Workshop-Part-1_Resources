@@ -1,5 +1,6 @@
 import express from "express";
 import handlebars from "express-handlebars";
+import homeController from "./controllers/homeControllers.js"
 
 const app = express();
 
@@ -14,8 +15,6 @@ app.engine(
 app.set("view engine", "hbs");
 app.set("views", "src/views");
 
-app.get("/", (req, res) => {
-  res.render("home");
-});
+app.use(homeController)
 
 app.listen(5000, () => `Server is listening on port 5000.....`);
