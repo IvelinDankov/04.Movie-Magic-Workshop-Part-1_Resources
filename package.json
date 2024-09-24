@@ -1,0 +1,19 @@
+{
+  "name": "04.movie-magic-workshop-part-1_resources",
+  "version": "1.0.0",
+  "description": "Small SoftUni movie project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start" : "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "VD",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
