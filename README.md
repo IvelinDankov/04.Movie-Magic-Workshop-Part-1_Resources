@@ -25,5 +25,8 @@
 this happen with path.release() give path to json file and then with fs.readFile read this file and return JSON parse this data. /not well clear / export get movies in an object. 
 19. import all in movesServices as movieData import and give it to movieData.getMovies()
 20. flow of 3 layer architecture first req.. go to. router.. go to. homeController.. go to. movieService.. go to. movieData. 
-21. Let' go to create page. 
+21. Let' go to create page. Start creating new folder in views -> movies and inside put create.hbs 
+22. Create new controller movie controller.js 
+23. Create.hbs inserting names in form 
+24. 
 
