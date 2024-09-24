@@ -28,5 +28,8 @@ this happen with path.release() give path to json file and then with fs.readFile
 21. Let' go to create page. Start creating new folder in views -> movies and inside put create.hbs 
 22. Create new controller movie controller.js 
 23. Create.hbs inserting names in form 
-24. 
+24. In movieController make new route and render create page
+25. Make post request and new route in movieController. to work this you need to insert in index.js app.use(express.urlencoded, {extended: false});
+26. To take movieData req.body this is body parser middleware.
+
 

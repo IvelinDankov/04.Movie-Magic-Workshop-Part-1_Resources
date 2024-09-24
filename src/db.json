@@ -20,6 +20,16 @@
       "title": "Home Alone",
       "genre": "Comedy",
       "description": "It is Christmas time and the McCallister family is preparing for a vacation in Paris, France. But the youngest in the family, Kevin (Macaulay Culkin), got into a scuffle with his older brother Buzz (Devin Ratray) and was sent to his room, which is on the third floor of his house."
+    },
+    {
+      "title": "Man of Steel",
+      "genre": "Action",
+      "director": " Zack Snyder",
+      "year": "2009",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpicfiles.alphacoders.com%2F108%2Fthumb-1920-108646.jpg&f=1&nofb=1&ipt=7ea02887e53edf07436ba03852ec25ba20a8889f7b352adec37751a95c058952&ipo=images",
+      "rating": "9",
+      "description": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+      "id": "2hv8s898m1gbdz1u"
     }
   ]
 }
