@@ -33,6 +33,7 @@ this happen with path.release() give path to json file and then with fs.readFile
 26. To take movieData req.body this is body parser middleware.
 27. Creating details which is into home in partials
 28. Add specific link to details page. and id call it with id for example: movies/{{id}}/details
-29.  
+29. Page 404 can stay outside in views folder just make in router '*' and render to 404 page. thats all.
+30.  
 
 
