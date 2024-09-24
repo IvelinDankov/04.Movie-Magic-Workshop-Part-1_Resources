@@ -34,6 +34,9 @@ this happen with path.release() give path to json file and then with fs.readFile
 27. Creating details which is into home in partials
 28. Add specific link to details page. and id call it with id for example: movies/{{id}}/details
 29. Page 404 can stay outside in views folder just make in router '*' and render to 404 page. thats all.
-30.  
+30.  let's start with rating in movieController creating function getRatingViewData this will take our star and return it as an repeat method take rating.
+31. Last implementation is to add search page 
+ + put into movies folder 
+ + 
 
 

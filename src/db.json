@@ -4,6 +4,7 @@
       "id": "2xx8s898m1gbdz1u",
       "imageUrl": "/img/jungle-cruise.jpeg",
       "title": "Jungle Cuise",
+      "rating": 7,
       "genre": "Adventure",
       "description": "Dreaming about saving countless lives and having another adventure, the feisty English feminist and doctor of botany, Dr Lily Houghton, embarks on a peril-laden mission to change the world. Along with her fashionable brother, MacGregor, Dr Houghton enlists the help of the arrogant, wisecracking riverboat skipper, Captain Frank Wolff, to guide them through the serpentine Amazon River in La Quila, his swift wooden boat. Now, as the intrepid trio ventures deeper and deeper into the heart of an impenetrable green maze, searching for something that cannot be found, a centuries-old curse and the ruthless aristocrat, Prince Joachim, threaten to put an end to their ambitious plans."
     },
@@ -12,6 +13,9 @@
       "imageUrl": "/img/the-little-mermaid.jpg",
       "title": "The Little Mermaid",
       "genre": "Fantasy",
+      "rating": 3,
+      "year": 2023,
+      "director": "Rob Marshall",
       "description": "Dreaming about saving countless lives and having another adventure"
     },
     {
@@ -19,6 +23,7 @@
       "imageUrl": "/img/home-alone.jpeg",
       "title": "Home Alone",
       "genre": "Comedy",
+      "rating": 9,
       "description": "It is Christmas time and the McCallister family is preparing for a vacation in Paris, France. But the youngest in the family, Kevin (Macaulay Culkin), got into a scuffle with his older brother Buzz (Devin Ratray) and was sent to his room, which is on the third floor of his house."
     },
     {
@@ -27,9 +32,19 @@
       "director": " Zack Snyder",
       "year": "2009",
       "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpicfiles.alphacoders.com%2F108%2Fthumb-1920-108646.jpg&f=1&nofb=1&ipt=7ea02887e53edf07436ba03852ec25ba20a8889f7b352adec37751a95c058952&ipo=images",
-      "rating": "9",
+      "rating": 9,
       "description": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
       "id": "2hv8s898m1gbdz1u"
+    },
+    {
+      "title": "The Matrix",
+      "genre": "Action, ",
+      "director": "Wachowski",
+      "year": "1999",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.themoviedb.org%2Ft%2Fp%2Foriginal%2F9zzxyavBzVq5rlmSemZ0AHXutjJ.jpg&f=1&nofb=1&ipt=6065286c6c921550f772d260191d6bb2dbcd7f2806589d256f17c188b25e7bd3&ipo=images",
+      "rating": 8.7,
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "id": "2hv8shfom1gcwhjq"
     }
   ]
 }
