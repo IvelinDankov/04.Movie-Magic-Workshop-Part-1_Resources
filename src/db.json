@@ -42,9 +42,39 @@
       "director": "Wachowski",
       "year": "1999",
       "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.themoviedb.org%2Ft%2Fp%2Foriginal%2F9zzxyavBzVq5rlmSemZ0AHXutjJ.jpg&f=1&nofb=1&ipt=6065286c6c921550f772d260191d6bb2dbcd7f2806589d256f17c188b25e7bd3&ipo=images",
-      "rating": 8.7,
+      "rating": 9,
       "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
       "id": "2hv8shfom1gcwhjq"
+    },
+    {
+      "title": "Beetlejuice Beetlejuice",
+      "genre": "Comedy, Fantasy, ",
+      "director": "Tim Burton",
+      "year": "2024",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmovieplayer.net-cdn.it%2Ft%2Fimages%2F2024%2F09%2F23%2Fbeetlejuice_beetlejuice_set_tim_burton_jpg_1600x900_crop_q85.jpg&f=1&nofb=1&ipt=abe184dc107920fe6d59a03e685b375c28bfb0b4981e717dd1f0d0ea90030f6e&ipo=images",
+      "rating": 7,
+      "description": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+      "id": "2hv8s25om1gja3d3"
+    },
+    {
+      "title": "Transformers One",
+      "genre": "Action, Advanture, Anime",
+      "director": "Josh Cooley",
+      "year": "2024",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.gadgets360cdn.com%2Fpricee%2Fassets%2Fproduct%2F202401%2FTransformers_One_poster_1704185765.jpg&f=1&nofb=1&ipt=ccf7d0a27ebf1d844f1d9f5552fe6b9e63cd5a6e4d606332c46629f197d1fdf1&ipo=images",
+      "rating": 8,
+      "description": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+      "id": "2hv8s2vgm1gjh4ya"
+    },
+    {
+      "title": "Speak No Evil",
+      "genre": "Drama, Horror",
+      "director": "James Watkins",
+      "year": "2024",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.voxcinemas.com%2Fposters%2FP_HO00010002.jpg&f=1&nofb=1&ipt=7cdc9e37f91ebedcc3dcd3209325c5e267f9f7bca0f683f79f2be32e4117c55e&ipo=images",
+      "rating": 8,
+      "description": "A family is invited to spend a whole weekend in a lonely home in the countryside, but as the weekend progresses, they realize that a dark side lies within the family who invited them.",
+      "id": "2hv8s9xgm1gjmhmx"
     }
   ]
 }
