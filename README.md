@@ -1,4 +1,4 @@
-## Steps
+#### Developing Steps - Workshop 1
 
 1. Make file git ignore and install new project 
 2. Install all bibliothecas.
@@ -50,6 +50,11 @@ this happen with path.release() give path to json file and then with fs.readFile
  + go to movieService and in function getAll als param put filter = {}
  + you need to add if statement to all searches and filter it.
 
+#### Developing Steps - Workshop 2;
+
+1. Extract init files.
+2. Setup mongoose.
+3. Add models.
 
   
 
