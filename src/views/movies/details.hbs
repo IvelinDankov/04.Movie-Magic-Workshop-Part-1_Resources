@@ -8,7 +8,7 @@
         <div class="card-movie">
           <div class="first-info">
             <p class="card-genre">Genre: {{movie.genre}} </p>
-            <p class="card-director">Directror: {{movie.director}} </p>
+            <p class="card-director">Director: {{movie.director}} </p>
           </div>
           <div class="second-info">
             <p class="card-year">Year: {{movie.year}} </p>
@@ -19,10 +19,12 @@
         </div>
 
         <p class="disc">Description: {{movie.description}} </p>
+
+        <a class="details" style="display: inline-block;" href="/movies/{{movie._id}}/attach">attach</a>
       </div>
     </div>
     <div class="card_right">
-      <img src="{{movie.imageUrl}} " alt="{{movie.title}} " />
+      <img src="{{movie.imageUrl}}" alt="{{movie.title}}" />
     </div>
   </div>
 

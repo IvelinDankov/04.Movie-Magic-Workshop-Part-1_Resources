@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "_id": "2xx8s898m1gbdz1u",
+      "_id":  "2xx8s898m1gbdz1u",
       "imageUrl": "/img/jungle-cruise.jpeg",
       "title": "Jungle Cuise",
       "rating": 7,
