@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "id": "2xx8s898m1gbdz1u",
+      "_id": "2xx8s898m1gbdz1u",
       "imageUrl": "/img/jungle-cruise.jpeg",
       "title": "Jungle Cuise",
       "rating": 7,
@@ -9,7 +9,7 @@
       "description": "Dreaming about saving countless lives and having another adventure, the feisty English feminist and doctor of botany, Dr Lily Houghton, embarks on a peril-laden mission to change the world. Along with her fashionable brother, MacGregor, Dr Houghton enlists the help of the arrogant, wisecracking riverboat skipper, Captain Frank Wolff, to guide them through the serpentine Amazon River in La Quila, his swift wooden boat. Now, as the intrepid trio ventures deeper and deeper into the heart of an impenetrable green maze, searching for something that cannot be found, a centuries-old curse and the ruthless aristocrat, Prince Joachim, threaten to put an end to their ambitious plans."
     },
     {
-      "id": "2hv8a898m1gbdz12",
+      "_id": "2hv8a898m1gbdz12",
       "imageUrl": "/img/the-little-mermaid.jpg",
       "title": "The Little Mermaid",
       "genre": "Fantasy",
@@ -19,7 +19,7 @@
       "description": "Dreaming about saving countless lives and having another adventure"
     },
     {
-      "id": "2hv8s8934m1gbdz1u",
+      "_id": "2hv8s8934m1gbdz1u",
       "imageUrl": "/img/home-alone.jpeg",
       "title": "Home Alone",
       "genre": "Comedy",
@@ -34,7 +34,7 @@
       "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpicfiles.alphacoders.com%2F108%2Fthumb-1920-108646.jpg&f=1&nofb=1&ipt=7ea02887e53edf07436ba03852ec25ba20a8889f7b352adec37751a95c058952&ipo=images",
       "rating": 9,
       "description": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
-      "id": "2hv8s898m1gbdz1u"
+      "_id": "2hv8s898m1gbdz1u"
     },
     {
       "title": "The Matrix",
@@ -44,7 +44,7 @@
       "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.themoviedb.org%2Ft%2Fp%2Foriginal%2F9zzxyavBzVq5rlmSemZ0AHXutjJ.jpg&f=1&nofb=1&ipt=6065286c6c921550f772d260191d6bb2dbcd7f2806589d256f17c188b25e7bd3&ipo=images",
       "rating": 9,
       "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
-      "id": "2hv8shfom1gcwhjq"
+      "_id": "2hv8shfom1gcwhjq"
     },
     {
       "title": "Beetlejuice Beetlejuice",
@@ -54,7 +54,7 @@
       "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmovieplayer.net-cdn.it%2Ft%2Fimages%2F2024%2F09%2F23%2Fbeetlejuice_beetlejuice_set_tim_burton_jpg_1600x900_crop_q85.jpg&f=1&nofb=1&ipt=abe184dc107920fe6d59a03e685b375c28bfb0b4981e717dd1f0d0ea90030f6e&ipo=images",
       "rating": 7,
       "description": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
-      "id": "2hv8s25om1gja3d3"
+      "_id": "2hv8s25om1gja3d3"
     },
     {
       "title": "Transformers One",
@@ -64,7 +64,7 @@
       "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.gadgets360cdn.com%2Fpricee%2Fassets%2Fproduct%2F202401%2FTransformers_One_poster_1704185765.jpg&f=1&nofb=1&ipt=ccf7d0a27ebf1d844f1d9f5552fe6b9e63cd5a6e4d606332c46629f197d1fdf1&ipo=images",
       "rating": 8,
       "description": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
-      "id": "2hv8s2vgm1gjh4ya"
+      "_id": "2hv8s2vgm1gjh4ya"
     },
     {
       "title": "Speak No Evil",
@@ -74,7 +74,7 @@
       "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.voxcinemas.com%2Fposters%2FP_HO00010002.jpg&f=1&nofb=1&ipt=7cdc9e37f91ebedcc3dcd3209325c5e267f9f7bca0f683f79f2be32e4117c55e&ipo=images",
       "rating": 8,
       "description": "A family is invited to spend a whole weekend in a lonely home in the countryside, but as the weekend progresses, they realize that a dark side lies within the family who invited them.",
-      "id": "2hv8s9xgm1gjmhmx"
+      "_id": "2hv8s9xgm1gjmhmx"
     }
   ]
 }

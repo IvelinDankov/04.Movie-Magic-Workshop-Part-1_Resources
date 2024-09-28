@@ -54,7 +54,8 @@ this happen with path.release() give path to json file and then with fs.readFile
 
 1. Extract init files.
 2. Setup mongoose.
-3. Add models.
+3. Add model.
+4. Convert file base storage to db storage. 
 
   
 
