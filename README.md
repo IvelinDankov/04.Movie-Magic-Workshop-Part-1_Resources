@@ -56,6 +56,7 @@ this happen with path.release() give path to json file and then with fs.readFile
 2. Setup mongoose.
 3. Add model.
 4. Convert file base storage to db storage. 
+5. Add Cast model.
 
   
 
