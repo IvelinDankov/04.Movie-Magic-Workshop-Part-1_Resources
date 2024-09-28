@@ -7,7 +7,7 @@ const movieSchema = new Schema({
     year: Number,
     rating: Number,
     description: String,
-    imageUrl: String
+    imageUrl: String,
 });
 
 const Movie = model('Movie', movieSchema)

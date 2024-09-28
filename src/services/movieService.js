@@ -1,13 +1,13 @@
 
 import Movie from "../models/movie.js";
 
-// TODO: refactor
+// TODO: filter in DB not 
 const getAll = async (filter = {}) => {
   // let movies = await movieData.getAll();
-  let movies = await Movie.find();
+  let moviesQuery = await Movie.find();
 
   if (filter.search) {
-    movies = movies.filter(movie =>
+    moviesQuery = moviesQuery.filter(movie =>
       movie.title.toLowerCase().includes(filter.search.toLowerCase())
     );
   }
@@ -22,7 +22,7 @@ const getAll = async (filter = {}) => {
     movies = movies.filter(movie => movie.year === filter.year);
   }
 
-  return movies;
+  return moviesQuery;
 };
 
 const create = movie => Movie.create(movie);
