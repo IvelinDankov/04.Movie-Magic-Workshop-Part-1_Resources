@@ -1,6 +1,9 @@
 import Cast from "../models/Cast.js";
 
-const createCast = (cast) => Cast.create(cast)
+const getAll = () => Cast.find();
+const createCast = cast => Cast.create(cast);
 
-
-export default {createCast};
+export default {
+  createCast,
+  getAll
+};
