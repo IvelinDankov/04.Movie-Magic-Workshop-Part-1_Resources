@@ -58,8 +58,24 @@ this happen with path.release() give path to json file and then with fs.readFile
 4. Convert file base storage to db storage. 
 5. Add Cast model.
 6. Make routes and route Controllers.
-7. Add attach page
+7. Add attach page.
 
+#### Developing Steps - Workshop 3 - Authentication
+
+ - [ ] Fix Bug from previous workshop.
+ - [ ] Select dropdown with pre-populated value.
+
+ - [ ] Add register page.
+ - [ ] Add user model
+ - [ ] Add Auth controller.
+ - [ ] Add auth service.
+
+ - [ ] Add login page. 
+ - [ ] Add dynamic router
+    <!-- Next workshop -->
+ - [ ] Add model validation.
+
+1. Ma 
   
 
 

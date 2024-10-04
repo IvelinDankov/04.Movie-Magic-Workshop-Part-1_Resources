@@ -10,9 +10,9 @@ router.get("/create", (req, res) => {
 router.post("/create", async (req, res) => {
   const cast = req.body;
 
- await castService.createCast(cast)
+  await castService.createCast(cast);
 
-  res.redirect("/home");
+  res.redirect("/");
 });
 
 export default router;

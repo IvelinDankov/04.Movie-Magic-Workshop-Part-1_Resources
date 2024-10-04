@@ -1,7 +1,6 @@
-
 import Movie from "../models/movie.js";
 
-// TODO: filter in DB not 
+// TODO: filter in DB not
 const getAll = async (filter = {}) => {
   // let movies = await movieData.getAll();
   let moviesQuery = await Movie.find();
@@ -13,13 +12,13 @@ const getAll = async (filter = {}) => {
   }
 
   if (filter.genre) {
-    movies = movies.filter(movie =>
+    moviesQuery = moviesQuery.filter(movie =>
       movie.genre.toLowerCase().includes(filter.genre.toLowerCase())
     );
   }
 
   if (filter.year) {
-    movies = movies.filter(movie => movie.year === filter.year);
+    moviesQuery = moviesQuery.filter(movie => movie.year === filter.year);
   }
 
   return moviesQuery;
@@ -27,11 +26,21 @@ const getAll = async (filter = {}) => {
 
 const create = movie => Movie.create(movie);
 
-const getOne = movieId =>  Movie.findById(movieId);
+const getOne = movieId => Movie.findById(movieId).populate('casts');
 
+const attach =  async(movieId, castId) => {
+  // TODO:
+  const movie = await Movie.findById(movieId);
+  movie.casts.push(castId);
+  return movie.save();
+
+//  return Movie.findByIdAndUpdate(movieId, {$push: {casts: castId}});
+
+};
 
 export default {
   getAll,
   create,
-  getOne
+  getOne,
+  attach
 };
