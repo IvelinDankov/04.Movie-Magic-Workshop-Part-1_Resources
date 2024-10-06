@@ -11,6 +11,7 @@ router.use(homeController);
 router.use("/movies", movieController);
 router.use("/casts", castController);
 router.use("/auth", authController);
+
 router.all("*", (req, res) => {
   res.render("404");
 });

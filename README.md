@@ -63,19 +63,22 @@ this happen with path.release() give path to json file and then with fs.readFile
 #### Developing Steps - Workshop 3 - Authentication
 
  - [ ] Fix Bug from previous workshop.
- - [ ] Select dropdown with pre-populated value.
+ - [X] Select dropdown with pre-populated value.
 
- - [ ] Add register page.
- - [ ] Add user model
- - [ ] Add Auth controller.
- - [ ] Add auth service.
+ - [X] Add register page.
+ - [X] Add user model
+ - [X] Add Auth controller.
+ - [X] Add auth service.
 
- - [ ] Add login page. 
- - [ ] Add dynamic router
+ - [x] Add login page. 
+        - [ ] validate hashed password.
+        - [ ] create token. 
+        - [ ] add token to cookie
+ - [ ] Add dynamic router.
     <!-- Next workshop -->
  - [ ] Add model validation.
 
-1. Ma 
+
   
 
 

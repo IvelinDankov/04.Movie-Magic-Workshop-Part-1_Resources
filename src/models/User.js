@@ -10,6 +10,7 @@ const userSchema = new Schema({
     password: String
 })
 
+// Before Save To schema. 
 userSchema.pre('save', async function () {
     const hash = await bcrypt.hash(this.password, saltRound);
 

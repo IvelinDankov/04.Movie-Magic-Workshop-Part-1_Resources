@@ -16,4 +16,23 @@ router.post("/register", async (req, res) => {
   res.redirect("/auth/login");
 });
 
+///////////////////////////
+/////// LOGIN //////////////
+/////////////////////////////
+
+router.get("/login", (req, res) => {
+  res.render("auth/login");
+});
+
+router.post("/login", async (req, res) => {
+  const { email, password } = req.body;
+
+  const token = await authService.login( email, password );
+
+  //  TODO: add token to cookie.
+  res.cookie("auth", token, {httpOnly: true});
+
+  res.redirect("/");
+});
+
 export default router;
