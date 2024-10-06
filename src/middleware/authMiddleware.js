@@ -18,7 +18,7 @@ export const authMiddleware = (req, res, next) => {
       email: decodedToken.email
     };
 
-    //   TODO:
+    //   TODO: Add userData to request
     req.user._id = decodedToken._id;
     req.user.email = decodedToken.email;
 
